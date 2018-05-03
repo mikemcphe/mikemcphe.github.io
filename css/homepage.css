@@ -2,8 +2,10 @@ body {
 	background-color:#8533ff;
 }
 h1 {
-	font-size:20vw; color:black; font-family:"Times New Roman"; text-align:center; font-variant:small-caps;
+	font-size:0.2 * screen.width; color:black; font-family:"Times New Roman";
+	text-align:center; font-variant:small-caps;
 }
 p {
-	font-size:95vw; color:white; font-family:courier; text-align:center;
+	font-size:0.95 * screen.width; color:white; font-family:courier;
+	text-align:center;
 }
