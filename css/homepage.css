@@ -17,24 +17,28 @@ p {
 
 a:link {
 	font-size:0.2 * screen.width;
+	font-family:courier;
     color:white;
     background-color:transparent;
     text-decoration:underline;
 }
 a:visited {
 	font-size:0.2 * screen.width;
+	font-family:courier;
     color:white;
     background-color:transparent;
     text-decoration:underline;
 }
 a:hover {
 	font-size:0.2 * screen.width;
+	font-family:courier;
     color:white;
     background-color:transparent;
     text-decoration:underline;
 }
 a:active {
 	font-size:0.2 * screen.width;
+	font-family:courier;
     color:red;
     background-color:transparent;
     text-decoration:underline;
