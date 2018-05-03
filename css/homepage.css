@@ -1,7 +1,4 @@
 body {
-	background-color:white;
-}
-header {
 	background-color:#8533ff;
 }
 h1 {
@@ -19,7 +16,7 @@ a:link {
     text-decoration:underline;
 }
 a:visited {
-    color:gray;
+    color:white;
     background-color: transparent;
     text-decoration:underline;
 }
