@@ -1,13 +1,16 @@
 body {
-	background-color:#8533ff;
+	background-color:white;
 }
 h1 {
 	font-size:0.4 * screen.width; color:black; font-family:"Times New Roman";
-	text-align:center; font-variant:small-caps;
+	font-variant:small-caps;
+}
+h2 {
+    font-size:0.25 * screen.width; color:black; font-family:"Times New Roman";
+    font-variant:small-caps;
 }
 p {
 	font-size:0.95 * screen.width; color:white; font-family:courier;
-	text-align:center;
 }
 
 a:link {
