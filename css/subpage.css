@@ -14,9 +14,9 @@ h2 {
     font-variant:small-caps;
 }
 p {
-	font-size:0.95 * screen.width;
-    color:white;
-    font-family:courier;
+	font-size:0.20 * screen.width;
+    color:black;
+    font-family:"Times New Roman";
 }
 
 .sidebar {
@@ -33,15 +33,11 @@ p {
 
 .sidebar a {
     padding: 6px 8px 6px 16px;
-    text-decoration:none;
-    font-size: 25px;
+    font-size:0.2 * screen.width;
+    font-family:courier;
     color:white;
-    display:block;
-}
-
-/* When you mouse over the navigation links, change their color */
-.sidenav a:hover {
-    color: #f1f1f1;
+    background-color:transparent;
+    text-decoration:underline;
 }
 
 /* Style page content */
