@@ -9,28 +9,32 @@ h1 {
 	font-variant:small-caps;
 }
 p {
-	font-size:0.95 * screen.width;
+	font-size:0.2 * screen.width;
 	color:white;
 	font-family:courier;
 	text-align:center;
 }
 
 a:link {
+	font-size:0.2 * screen.width;
     color:white;
     background-color:transparent;
     text-decoration:underline;
 }
 a:visited {
+	font-size:0.2 * screen.width;
     color:white;
     background-color:transparent;
     text-decoration:underline;
 }
 a:hover {
+	font-size:0.2 * screen.width;
     color:white;
     background-color:transparent;
     text-decoration:underline;
 }
 a:active {
+	font-size:0.2 * screen.width;
     color:red;
     background-color:transparent;
     text-decoration:underline;
