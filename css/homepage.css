@@ -2,10 +2,31 @@ body {
 	background-color:#8533ff;
 }
 h1 {
-	font-size:0.2 * screen.width; color:black; font-family:"Times New Roman";
+	font-size:0.4 * screen.width; color:black; font-family:"Times New Roman";
 	text-align:center; font-variant:small-caps;
 }
 p {
 	font-size:0.95 * screen.width; color:white; font-family:courier;
 	text-align:center;
+}
+
+a:link {
+    color:white;
+    background-color: transparent;
+    text-decoration:underline;
+}
+a:visited {
+    color:gray;
+    background-color: transparent;
+    text-decoration:underline;
+}
+a:hover {
+    color:white;
+    background-color: transparent;
+    text-decoration:underline;
+}
+a:active {
+    color:red;
+    background-color: transparent;
+    text-decoration:underline;
 }
