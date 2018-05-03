@@ -14,6 +14,9 @@ p {
 	font-family:courier;
 	text-align:center;
 }
+br {
+    line-height: 150%;
+}
 
 a:link {
 	font-size:0.2 * screen.width;
