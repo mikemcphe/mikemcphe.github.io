@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mikemcphe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mikemcpherson.info
+  * I am mikemcphe (https://keybase.io/mikemcphe) on keybase.
+  * I have a public key ASDnQpln5Va8xMDa9ImDjT7wY22T04bmahTlqTFTuxWDfgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e7429967e556bcc4c0daf489838d3ef0636d93d386e66a14e5a93153bb15837e0a",
+      "host": "keybase.io",
+      "kid": "0120e7429967e556bcc4c0daf489838d3ef0636d93d386e66a14e5a93153bb15837e0a",
+      "uid": "b8d55d36cebf497c5e3db187ab0c5219",
+      "username": "mikemcphe"
+    },
+    "merkle_root": {
+      "ctime": 1532448227,
+      "hash": "6e601814fb3da65abd321eb9dc009e101efaa4a7a29d01395ad6a5996f43289602f68fa4d54679b789c463e3612d4193ab37f719516fd905c33cb03dee78204a",
+      "hash_meta": "4ff6a364b3490817d4337ce29f8e347db07b9a8b9dda0a5348cdb3b8c8c6073c",
+      "seqno": 3323248
+    },
+    "service": {
+      "entropy": "JPP9RbJ9IpyIgsjBTNimdNPa",
+      "hostname": "mikemcpherson.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.4.0"
+  },
+  "ctime": 1532448241,
+  "expire_in": 504576000,
+  "prev": "1d07ca2933f5716a742bcdcac88b686e8e8a55ea23f75c2cfde1741129fb7175",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg50KZZ+VWvMTA2vSJg40+8GNtk9OG5moU5akxU7sVg34Kp3BheWxvYWTESpcCD8QgHQfKKTP1cWp0K83KyItobo6KVeoj91ws/eF0ESn7cXXEIJHqnfEsAS/4cTEPLgtcnRFWqgLTx5U+acRWmw/6DZmUAgHCo3NpZ8RArdp+nkkFCoXJOdb8i22MTIn0CAZEjZ+C+J1A83LbCgFEiTbBzT1AMsWnhEBf8iXMYP6rGBMFnwgoA3YMJR5KDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGVYD9j/C02TR5XoMpiX0eI5M0dlgsGlpj7bptQaMv7yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikemcphe
+
+==================================================================
